@@ -8,4 +8,4 @@ before disclosing them in a public forum**.
 
 ## Contact
 
-[SECURITY.md](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md#contact)
+[README.md](https://github.com/Blankj/AndroidUtilCode/blob/master/README.md#contact)
