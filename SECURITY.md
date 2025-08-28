@@ -8,4 +8,4 @@ before disclosing them in a public forum**.
 
 ## Contact
 
-[![Blog][blogSvg]][blog] [![jianshu][jianshuSvg]][jianshu] [![weibo][weiboSvg]][weibo] [![QQGroup][qqgroupSvg]][qqgroup]
+[SECURITY.md](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md#contact)
